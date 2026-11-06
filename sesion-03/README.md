@@ -1,1 +1,0 @@
-trazas del cajero, piramide y arbol de componentes 
